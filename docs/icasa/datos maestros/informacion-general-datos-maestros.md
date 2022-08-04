@@ -20,7 +20,7 @@ slug: /informacion-general-datos-maestros
 
 Este proceso tiene como finalidad el manejo de información y su integración con SAP en cuanto a tres aspectos operacionales de la empresa, los cuales son **_Proveedores_**, **_Clientes_** y **_Materiales_**.
 
-Su implementación se baso en los procesos que se llevan para **_[Levapan](informacion-general-levapan)_** con algunas mejoras y modificaciones que se abordaran más adelante, pero en cuanto al concepto se mantiene la misma filosofía.
+Su implementación se baso en los procesos que se llevan para **_[Valorem](informacion-general-datos-maestros)_** con algunas mejoras y modificaciones que se abordaran más adelante, pero en cuanto a concepto se mantiene la misma filosofía.
 
 ## Update
 
