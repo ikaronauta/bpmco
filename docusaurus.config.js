@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "ikaronauta", // Usually your GitHub org/user name.
-  projectName: "doc-bpmco", // Usually your repo name.
+  projectName: "bpmco", // Usually your repo name.
 
   presets: [
     [
