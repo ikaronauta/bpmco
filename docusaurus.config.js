@@ -8,12 +8,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "BPMco",
   tagline: "Documentación",
-  url: "http://documentacion.bpmco.co",
-  baseUrl: "/conocimiento/",
+  url: "http://ikaronauta.github.io",
+  baseUrl: "/bpmco/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
+  organizationName: "ikaronauta", // Usually your GitHub org/user name.
   projectName: "doc-bpmco", // Usually your repo name.
 
   presets: [
