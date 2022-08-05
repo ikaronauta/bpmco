@@ -11,7 +11,7 @@ slug: /informacion-general-icasa
 **Sitio web:** [www.icasa.com.gt/](http://www.icasa.com.gt/)  
 **Sector:** Pendiente.  
 **Fundación:** Pendiente.  
-**Sitio de Procesos:** [_Pendiente_](http://procesos.bpmco.co)  
+**Sitio de Procesos:** [icasa.bpmco.co](https://icasa.bpmco.co/)  
 **Cliente desde:** _Pendiente_.
 :::
 

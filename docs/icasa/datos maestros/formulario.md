@@ -10,6 +10,9 @@ Estos formularios se encuentran desarrollados en **_[Framework7](https://framewo
 
 Esta sección cuenta con dos opciones **Individual** y **Masivo**, las cuales se presentan a través inputs tipo radio. El funcionamiento interno de cada opción es la misma en los dos casos, la cual consiste en ingresar información y almacenar en una **_Grid_**, la diferencia radica en la forma en que el usuario ingresa la información en el sistema.
 
+_Vista Sección 1_  
+![Sección 1](./img/seccion1.PNG "Sección 1")
+
 ### Individual
 
 Esta opción se elige cuando se va a ingresar un solo registro y su funcionamiento es a través de un formulario normal con sus campos para ingresar información.
@@ -23,6 +26,9 @@ En caso de que se deban ingresar varios registros, se cargan los datos a través
 Cada registro de la plantilla ingresaría en una fila de la **_Grid_**.
 
 ## Sección 2
+
+_Vista Sección 2_  
+![Sección 2](./img/seccion2.PNG "Sección 2")
 
 ### Crear
 
@@ -79,8 +85,6 @@ Dado que el procedimiento de guardar la información es igual para todos los for
 ```js title="Ruta datosMaestros.js"
 raiz\solicitudes\plantillas\Icasa\js
 ```
-
-### Validación
 
 ## Update
 

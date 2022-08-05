@@ -22,20 +22,21 @@ Este proceso tiene como finalidad el manejo de información y su integración co
 
 Su implementación se baso en los procesos que se llevan para **_[Valorem](informacion-general-datos-maestros)_** con algunas mejoras y modificaciones que se abordaran más adelante, pero en cuanto a concepto se mantiene la misma filosofía.
 
-## Update
+_Vista Árbol de Procesos_  
+![Árbol Procesos](./img/arbol-procesos.png "Árbol Procesos")
 
 <div class="ultima-actualizacion">
   <small>
     <i>
       Ultima actualización:
-      <b> xx de xxxxx de 2022.</b>
+      <b> 04 de Agosto de 2022.</b>
     </i>
   </small>
 
   <small>
     <i>
       Actualizado por:
-      <b> xx x xx.</b>
+      <b> Julian A. Ortiz.</b>
     </i>
   </small>
 </div>
