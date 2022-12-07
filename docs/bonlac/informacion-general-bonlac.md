@@ -1,27 +1,27 @@
 ---
 sidebar_position: 1
 title: Información General Bonlac
-slug: /informacion-general-bonlac
+slug: /informacion-general-bonlac-prueba
 ---
 
 ![Bonlac](./logo-bonlac.png "Bonlac")
 
 :::tip
 **Ubicación:** Panama.  
-**Sitio web:** [www.bonlac.com.pa](https://bonlac.com.pa/)      
+**Sitio web:** [www.bonlac.com.pa](https://bonlac.com.pa/)  
 **Sector:** Servicios de alimentos y bebidas.  
 **Fundación:** 1986.  
-**Sitio de Procesos:** [*Pendiente*](http://procesos.bpmco.co)    
-**Cliente desde:** *Pendiente*. 
+**Sitio de Procesos:** [_Pendiente_](http://procesos.bpmco.co)  
+**Cliente desde:** _Pendiente_.
 :::
 
-***
+---
 
 ## Datos técnicos
 
-Esta empresa hacía parte de EPA (Panamá), en el año 2017 fueron comprados por el grupo maravilla (Guatemala).  Esto significó la división de todos los procesos que se tenían implementados, es por esto que existen muchas similitudes entre los formularios de Bonlac y los formularios de EPA.
+Esta empresa hacía parte de EPA (Panamá), en el año 2017 fueron comprados por el grupo maravilla (Guatemala). Esto significó la división de todos los procesos que se tenían implementados, es por esto que existen muchas similitudes entre los formularios de Bonlac y los formularios de EPA.
 
-***
+---
 
 ## Resumen
 
@@ -31,7 +31,7 @@ La meta inicial fue procesar un yogurt sabroso y nutritivo; así se crea el yogu
 
 Actualmente, Sociedad de Alimentos de Primera, S.A. (Bonlac), pertenece a el prestigioso grupo Alimentos Maravilla de Guatemala, empresa con más de 33 años en el mercado centroamericano con productos líderes y de calidad como néctares, bebidas y alimentos conformado por más de dos mil personas investigando, innovando y buscando la satisfacción de los clientes y la de las familias en América y El Caribe.
 
-***
+---
 
 ## Update
 
