@@ -22,12 +22,12 @@ slug: /informacion-general-proceso-proveeduria-de-leche
 
 Este proceso tiene como finalidad el control de la recolección de leche desde su planeación, hasta el pago a los proveedores.
 
-El proceso comienza con la planeación de las cantidades estimadas de leche que se van a recoger el mes siguiente con base a datos históricos con que cuenta la empresa de años anteriores. Esta planeación se divide en **_[Mensual](./planeacion-de-rutas.md#plan-mensual)_**, **_[Semanal](./planeacion-de-rutas.md#plan-mensual)_** y **_[Diario](./planeacion-de-rutas.md#plan-diario)_**.
+El proceso comienza con la planeación de las cantidades estimadas de leche que se van a recoger el mes siguiente con base a datos históricos con que cuenta la empresa de años anteriores. Esta planeación se divide en **_[Mensual](./planeacion-de-rutas.md#plan-mensual)_**, **_[Semanal](./planeacion-de-rutas.md##plan-semanal)_** y **_[Diario](./planeacion-de-rutas.md#plan-diario)_**.
 
 Para llevar a cabo esta planeación la empresa cuenta con unos **_Datos Maestros_** en los cuales se encuentra la información de las _Rutas_, _Fincas_, _Cisternas_, _Cabezales_ y _Conductores_, además de otra información que no es relevante para el presente documento.
 
 _Diagrama General_
-![Diagrama General](./informacion-general-proveeduria-de-leche.svg "Diagrama General")
+![Diagrama General](/assets/proveeduria/informacion-general-proveeduria-de-leche-1.svg "Diagrama General")
 
 ---
 
@@ -122,7 +122,7 @@ _Formulario Gestionar **Conductores** _
   <small>
     <i>
       Actualizado por:
-      <b> Julian A. Ortiz.</b>
+      <b> Santiago Correa R</b>
     </i>
   </small>
 </div>
