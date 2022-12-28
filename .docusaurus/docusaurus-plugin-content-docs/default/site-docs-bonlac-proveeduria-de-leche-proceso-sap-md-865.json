@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/proceso-sap",
+  "id": "bonlac/proveeduria de leche/proceso-sap",
+  "title": "Proceso SAP",
+  "description": "Descripción del Proceso",
+  "source": "@site/docs/bonlac/proveeduria de leche/proceso-sap.md",
+  "sourceDirName": "bonlac/proveeduria de leche",
+  "slug": "/proceso-sap",
+  "permalink": "/bpmco/docs/proceso-sap",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/proceso-sap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Proceso SAP",
+    "slug": "/proceso-sap"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ejecución de Ruta",
+    "permalink": "/bpmco/docs/ejecucion-de-ruta"
+  },
+  "next": {
+    "title": "Datos Maestros para el Proceso",
+    "permalink": "/bpmco/docs/datos-maestros-proceso"
+  }
+}

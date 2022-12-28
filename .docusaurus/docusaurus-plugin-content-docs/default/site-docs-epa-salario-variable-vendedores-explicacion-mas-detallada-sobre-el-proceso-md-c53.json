@@ -1,0 +1,28 @@
+{
+  "unversionedId": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+  "id": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+  "title": "Explicación Más Detallada Sobre El Proceso",
+  "description": "General",
+  "source": "@site/docs/epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso.md",
+  "sourceDirName": "epa/salario variable vendedores",
+  "slug": "/explicacion-mas-detallada-sobre-el-proceso",
+  "permalink": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Explicación Más Detallada Sobre El Proceso",
+    "slug": "/explicacion-mas-detallada-sobre-el-proceso"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flujos Del Proceso",
+    "permalink": "/bpmco/docs/flujos-del-proceso"
+  },
+  "next": {
+    "title": "Anexos",
+    "permalink": "/bpmco/docs/anexos"
+  }
+}

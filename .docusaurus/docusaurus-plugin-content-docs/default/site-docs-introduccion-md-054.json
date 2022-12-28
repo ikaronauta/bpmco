@@ -1,0 +1,25 @@
+{
+  "unversionedId": "introduccion",
+  "id": "introduccion",
+  "title": "Introducción",
+  "description": "Introducción General",
+  "source": "@site/docs/introduccion.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/bpmco/docs/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduccion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introducción",
+    "description": "Introducción General",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Información General BPMco",
+    "permalink": "/bpmco/docs/informacion-general-bpmco"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/informacion-general-bonlac",
+  "id": "bonlac/informacion-general-bonlac",
+  "title": "Información General Bonlac",
+  "description": "Bonlac",
+  "source": "@site/docs/bonlac/informacion-general-bonlac.md",
+  "sourceDirName": "bonlac",
+  "slug": "/informacion-general-bonlac-prueba",
+  "permalink": "/bpmco/docs/informacion-general-bonlac-prueba",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/informacion-general-bonlac.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Información General Bonlac",
+    "slug": "/informacion-general-bonlac-prueba"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formulario",
+    "permalink": "/bpmco/docs/formulario"
+  },
+  "next": {
+    "title": "Información General Proceso",
+    "permalink": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche"
+  }
+}

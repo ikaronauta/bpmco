@@ -1,0 +1,687 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/bpmco/docs",
+          "tagsPath": "/bpmco/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\BPMco\\Documents\\sachic\\bpmco\\sidebars.js",
+          "contentPath": "C:\\Users\\BPMco\\Documents\\sachic\\bpmco\\docs",
+          "contentPathLocalized": "C:\\Users\\BPMco\\Documents\\sachic\\bpmco\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "bonlac/informacion-general-bonlac",
+              "id": "bonlac/informacion-general-bonlac",
+              "title": "Información General Bonlac",
+              "description": "Bonlac",
+              "source": "@site/docs/bonlac/informacion-general-bonlac.md",
+              "sourceDirName": "bonlac",
+              "slug": "/informacion-general-bonlac-prueba",
+              "permalink": "/bpmco/docs/informacion-general-bonlac-prueba",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/informacion-general-bonlac.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Bonlac",
+                "slug": "/informacion-general-bonlac-prueba"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Formulario",
+                "permalink": "/bpmco/docs/formulario"
+              },
+              "next": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/datos-maestros-proceso",
+              "id": "bonlac/proveeduria de leche/datos-maestros-proceso",
+              "title": "Datos Maestros para el Proceso",
+              "description": "Descripción",
+              "source": "@site/docs/bonlac/proveeduria de leche/datos-maestros-proceso.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/datos-maestros-proceso",
+              "permalink": "/bpmco/docs/datos-maestros-proceso",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/datos-maestros-proceso.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Datos Maestros para el Proceso",
+                "slug": "/datos-maestros-proceso"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Proceso SAP",
+                "permalink": "/bpmco/docs/proceso-sap"
+              },
+              "next": {
+                "title": "Información General Empresa Panameña de Alimentos",
+                "permalink": "/bpmco/docs/informacion-general-epa"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+              "id": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+              "title": "Ejecución de Ruta",
+              "description": "Descripción del Proceso",
+              "source": "@site/docs/bonlac/proveeduria de leche/ejecucion-de-ruta.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/ejecucion-de-ruta",
+              "permalink": "/bpmco/docs/ejecucion-de-ruta",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/ejecucion-de-ruta.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Ejecución de Ruta",
+                "slug": "/ejecucion-de-ruta"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Planeación de Rutas",
+                "permalink": "/bpmco/docs/plenacion-de-rutas"
+              },
+              "next": {
+                "title": "Proceso SAP",
+                "permalink": "/bpmco/docs/proceso-sap"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche",
+              "id": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche",
+              "title": "Información General Proceso",
+              "description": "Proveeduría de Leche",
+              "source": "@site/docs/bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/informacion-general-proceso-proveeduria-de-leche",
+              "permalink": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Proceso",
+                "slug": "/informacion-general-proceso-proveeduria-de-leche"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Bonlac",
+                "permalink": "/bpmco/docs/informacion-general-bonlac-prueba"
+              },
+              "next": {
+                "title": "Información Técnica",
+                "permalink": "/bpmco/docs/informacion-tecnica"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/informacion-tecnica",
+              "id": "bonlac/proveeduria de leche/informacion-tecnica",
+              "title": "Información Técnica",
+              "description": "",
+              "source": "@site/docs/bonlac/proveeduria de leche/informacion-tecnica.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/informacion-tecnica",
+              "permalink": "/bpmco/docs/informacion-tecnica",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/informacion-tecnica.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Información Técnica",
+                "slug": "/informacion-tecnica"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche"
+              },
+              "next": {
+                "title": "Planeación de Rutas",
+                "permalink": "/bpmco/docs/plenacion-de-rutas"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/planeacion-de-rutas",
+              "id": "bonlac/proveeduria de leche/planeacion-de-rutas",
+              "title": "Planeación de Rutas",
+              "description": "Descripción del Proceso",
+              "source": "@site/docs/bonlac/proveeduria de leche/planeacion-de-rutas.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/plenacion-de-rutas",
+              "permalink": "/bpmco/docs/plenacion-de-rutas",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/planeacion-de-rutas.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Planeación de Rutas",
+                "slug": "/plenacion-de-rutas"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información Técnica",
+                "permalink": "/bpmco/docs/informacion-tecnica"
+              },
+              "next": {
+                "title": "Ejecución de Ruta",
+                "permalink": "/bpmco/docs/ejecucion-de-ruta"
+              }
+            },
+            {
+              "unversionedId": "bonlac/proveeduria de leche/proceso-sap",
+              "id": "bonlac/proveeduria de leche/proceso-sap",
+              "title": "Proceso SAP",
+              "description": "Descripción del Proceso",
+              "source": "@site/docs/bonlac/proveeduria de leche/proceso-sap.md",
+              "sourceDirName": "bonlac/proveeduria de leche",
+              "slug": "/proceso-sap",
+              "permalink": "/bpmco/docs/proceso-sap",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/proceso-sap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Proceso SAP",
+                "slug": "/proceso-sap"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ejecución de Ruta",
+                "permalink": "/bpmco/docs/ejecucion-de-ruta"
+              },
+              "next": {
+                "title": "Datos Maestros para el Proceso",
+                "permalink": "/bpmco/docs/datos-maestros-proceso"
+              }
+            },
+            {
+              "unversionedId": "bpmco/informacion-general-bpmco",
+              "id": "bpmco/informacion-general-bpmco",
+              "title": "Información General BPMco",
+              "description": "BPMco",
+              "source": "@site/docs/bpmco/informacion-general-bpmco.md",
+              "sourceDirName": "bpmco",
+              "slug": "/informacion-general-bpmco",
+              "permalink": "/bpmco/docs/informacion-general-bpmco",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bpmco/informacion-general-bpmco.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General BPMco",
+                "slug": "/informacion-general-bpmco"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introducción",
+                "permalink": "/bpmco/docs/"
+              },
+              "next": {
+                "title": "Información General Inversiones Centro Americanas",
+                "permalink": "/bpmco/docs/informacion-general-icasa"
+              }
+            },
+            {
+              "unversionedId": "epa/informacion-general-epa",
+              "id": "epa/informacion-general-epa",
+              "title": "Información General Empresa Panameña de Alimentos",
+              "description": "Empresa Panameña de Alimentos",
+              "source": "@site/docs/epa/informacion-general-epa.md",
+              "sourceDirName": "epa",
+              "slug": "/informacion-general-epa",
+              "permalink": "/bpmco/docs/informacion-general-epa",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/informacion-general-epa.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Empresa Panameña de Alimentos",
+                "slug": "/informacion-general-epa"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Datos Maestros para el Proceso",
+                "permalink": "/bpmco/docs/datos-maestros-proceso"
+              },
+              "next": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-salario-variable-para-vendedores"
+              }
+            },
+            {
+              "unversionedId": "epa/salario variable vendedores/anexos",
+              "id": "epa/salario variable vendedores/anexos",
+              "title": "Anexos",
+              "description": "profrmepasvprocesarVentasSAP",
+              "source": "@site/docs/epa/salario variable vendedores/anexos.md",
+              "sourceDirName": "epa/salario variable vendedores",
+              "slug": "/anexos",
+              "permalink": "/bpmco/docs/anexos",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/anexos.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Anexos",
+                "slug": "/anexos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Explicación Más Detallada Sobre El Proceso",
+                "permalink": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso"
+              },
+              "next": {
+                "title": "Información General Levapan",
+                "permalink": "/bpmco/docs/informacion-general-levapan"
+              }
+            },
+            {
+              "unversionedId": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+              "id": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+              "title": "Explicación Más Detallada Sobre El Proceso",
+              "description": "General",
+              "source": "@site/docs/epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso.md",
+              "sourceDirName": "epa/salario variable vendedores",
+              "slug": "/explicacion-mas-detallada-sobre-el-proceso",
+              "permalink": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Explicación Más Detallada Sobre El Proceso",
+                "slug": "/explicacion-mas-detallada-sobre-el-proceso"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flujos Del Proceso",
+                "permalink": "/bpmco/docs/flujos-del-proceso"
+              },
+              "next": {
+                "title": "Anexos",
+                "permalink": "/bpmco/docs/anexos"
+              }
+            },
+            {
+              "unversionedId": "epa/salario variable vendedores/flujos-del-proceso",
+              "id": "epa/salario variable vendedores/flujos-del-proceso",
+              "title": "Flujos Del Proceso",
+              "description": "General",
+              "source": "@site/docs/epa/salario variable vendedores/flujos-del-proceso.md",
+              "sourceDirName": "epa/salario variable vendedores",
+              "slug": "/flujos-del-proceso",
+              "permalink": "/bpmco/docs/flujos-del-proceso",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/flujos-del-proceso.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Flujos Del Proceso",
+                "slug": "/flujos-del-proceso"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-salario-variable-para-vendedores"
+              },
+              "next": {
+                "title": "Explicación Más Detallada Sobre El Proceso",
+                "permalink": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso"
+              }
+            },
+            {
+              "unversionedId": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores",
+              "id": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores",
+              "title": "Información General Proceso",
+              "description": "Salario Variable Para Vendedores",
+              "source": "@site/docs/epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores.md",
+              "sourceDirName": "epa/salario variable vendedores",
+              "slug": "/informacion-general-salario-variable-para-vendedores",
+              "permalink": "/bpmco/docs/informacion-general-salario-variable-para-vendedores",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Proceso",
+                "slug": "/informacion-general-salario-variable-para-vendedores"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Empresa Panameña de Alimentos",
+                "permalink": "/bpmco/docs/informacion-general-epa"
+              },
+              "next": {
+                "title": "Flujos Del Proceso",
+                "permalink": "/bpmco/docs/flujos-del-proceso"
+              }
+            },
+            {
+              "unversionedId": "icasa/datos maestros/formulario",
+              "id": "icasa/datos maestros/formulario",
+              "title": "Formulario",
+              "description": "Estos formularios se encuentran desarrollados en _Framework7_ y cuentan con una estructura básica que se divide en tres secciones principales.",
+              "source": "@site/docs/icasa/datos maestros/formulario.md",
+              "sourceDirName": "icasa/datos maestros",
+              "slug": "/formulario",
+              "permalink": "/bpmco/docs/formulario",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/icasa/datos maestros/formulario.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Formulario",
+                "slug": "/formulario"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-datos-maestros"
+              },
+              "next": {
+                "title": "Información General Bonlac",
+                "permalink": "/bpmco/docs/informacion-general-bonlac-prueba"
+              }
+            },
+            {
+              "unversionedId": "icasa/datos maestros/informacion-general-datos-maestros",
+              "id": "icasa/datos maestros/informacion-general-datos-maestros",
+              "title": "Información General Proceso",
+              "description": "Datos Maestros",
+              "source": "@site/docs/icasa/datos maestros/informacion-general-datos-maestros.md",
+              "sourceDirName": "icasa/datos maestros",
+              "slug": "/informacion-general-datos-maestros",
+              "permalink": "/bpmco/docs/informacion-general-datos-maestros",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/icasa/datos maestros/informacion-general-datos-maestros.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Proceso",
+                "slug": "/informacion-general-datos-maestros"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General Inversiones Centro Americanas",
+                "permalink": "/bpmco/docs/informacion-general-icasa"
+              },
+              "next": {
+                "title": "Formulario",
+                "permalink": "/bpmco/docs/formulario"
+              }
+            },
+            {
+              "unversionedId": "icasa/informacion-general-icasa",
+              "id": "icasa/informacion-general-icasa",
+              "title": "Información General Inversiones Centro Americanas",
+              "description": "Icasa",
+              "source": "@site/docs/icasa/informacion-general-icasa.md",
+              "sourceDirName": "icasa",
+              "slug": "/informacion-general-icasa",
+              "permalink": "/bpmco/docs/informacion-general-icasa",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/icasa/informacion-general-icasa.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Inversiones Centro Americanas",
+                "slug": "/informacion-general-icasa"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Información General BPMco",
+                "permalink": "/bpmco/docs/informacion-general-bpmco"
+              },
+              "next": {
+                "title": "Información General Proceso",
+                "permalink": "/bpmco/docs/informacion-general-datos-maestros"
+              }
+            },
+            {
+              "unversionedId": "introduccion",
+              "id": "introduccion",
+              "title": "Introducción",
+              "description": "Introducción General",
+              "source": "@site/docs/introduccion.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/bpmco/docs/",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduccion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introducción",
+                "description": "Introducción General",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Información General BPMco",
+                "permalink": "/bpmco/docs/informacion-general-bpmco"
+              }
+            },
+            {
+              "unversionedId": "levapan/informacion-general-levapan",
+              "id": "levapan/informacion-general-levapan",
+              "title": "Información General Levapan",
+              "description": "Levapan",
+              "source": "@site/docs/levapan/informacion-general-levapan.md",
+              "sourceDirName": "levapan",
+              "slug": "/informacion-general-levapan",
+              "permalink": "/bpmco/docs/informacion-general-levapan",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/levapan/informacion-general-levapan.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Información General Levapan",
+                "slug": "/informacion-general-levapan"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Anexos",
+                "permalink": "/bpmco/docs/anexos"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "introduccion"
+              },
+              {
+                "type": "category",
+                "label": "BPMco",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bpmco/informacion-general-bpmco"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Icasa",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "icasa/informacion-general-icasa"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Datos Maestros",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "icasa/datos maestros/informacion-general-datos-maestros"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "icasa/datos maestros/formulario"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Bonlac",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bonlac/informacion-general-bonlac"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Proveeduría de leche",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/informacion-tecnica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/planeacion-de-rutas"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/ejecucion-de-ruta"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/proceso-sap"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bonlac/proveeduria de leche/datos-maestros-proceso"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "EPA",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "epa/informacion-general-epa"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Salario Variable Para Vendedores",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "epa/salario variable vendedores/flujos-del-proceso"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "epa/salario variable vendedores/anexos"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Levapan",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "levapan/informacion-general-levapan"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "introduccion",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/bpmco/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/bpmco/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "@cmfcmf/docusaurus-search-local": {}
+}

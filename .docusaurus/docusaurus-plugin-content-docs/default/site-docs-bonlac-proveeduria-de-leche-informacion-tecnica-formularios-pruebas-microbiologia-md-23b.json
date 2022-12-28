@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/informacion_tecnica/formularios/pruebas-microbiologia",
+  "id": "bonlac/proveeduria de leche/informacion_tecnica/formularios/pruebas-microbiologia",
+  "title": "Pruebas Microbiología",
+  "description": "Descripción",
+  "source": "@site/docs/bonlac/proveeduria de leche/informacion_tecnica/formularios/pruebas-microbiologia.md",
+  "sourceDirName": "bonlac/proveeduria de leche/informacion_tecnica/formularios",
+  "slug": "/bonlac/proveeduria-leche/informacion-tecnica/formularios/pruebas-microbiologia",
+  "permalink": "/bpmco/docs/bonlac/proveeduria-leche/informacion-tecnica/formularios/pruebas-microbiologia",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/informacion_tecnica/formularios/pruebas-microbiologia.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Pruebas Microbiología",
+    "slug": "/bonlac/proveeduria-leche/informacion-tecnica/formularios/pruebas-microbiologia"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pruebas Físico Químicas",
+    "permalink": "/bpmco/docs/bonlac/proveeduria-leche/informacion-tecnica/formularios/pruebas-fisico-quimicas"
+  },
+  "next": {
+    "title": "Proceso SAP",
+    "permalink": "/bpmco/docs/proceso-sap"
+  }
+}

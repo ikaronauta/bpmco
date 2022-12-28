@@ -1,0 +1,295 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introducción",
+        "href": "/bpmco/docs/",
+        "docId": "introduccion"
+      },
+      {
+        "type": "category",
+        "label": "BPMco",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Información General BPMco",
+            "href": "/bpmco/docs/informacion-general-bpmco",
+            "docId": "bpmco/informacion-general-bpmco"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Icasa",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Información General Inversiones Centro Americanas",
+            "href": "/bpmco/docs/informacion-general-icasa",
+            "docId": "icasa/informacion-general-icasa"
+          },
+          {
+            "type": "category",
+            "label": "Datos Maestros",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Información General Proceso",
+                "href": "/bpmco/docs/informacion-general-datos-maestros",
+                "docId": "icasa/datos maestros/informacion-general-datos-maestros"
+              },
+              {
+                "type": "link",
+                "label": "Formulario",
+                "href": "/bpmco/docs/formulario",
+                "docId": "icasa/datos maestros/formulario"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bonlac",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Información General Bonlac",
+            "href": "/bpmco/docs/informacion-general-bonlac-prueba",
+            "docId": "bonlac/informacion-general-bonlac"
+          },
+          {
+            "type": "category",
+            "label": "Proveeduría de leche",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Información General Proceso",
+                "href": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche",
+                "docId": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche"
+              },
+              {
+                "type": "link",
+                "label": "Información Técnica",
+                "href": "/bpmco/docs/informacion-tecnica",
+                "docId": "bonlac/proveeduria de leche/informacion-tecnica"
+              },
+              {
+                "type": "link",
+                "label": "Planeación de Rutas",
+                "href": "/bpmco/docs/plenacion-de-rutas",
+                "docId": "bonlac/proveeduria de leche/planeacion-de-rutas"
+              },
+              {
+                "type": "link",
+                "label": "Ejecución de Ruta",
+                "href": "/bpmco/docs/ejecucion-de-ruta",
+                "docId": "bonlac/proveeduria de leche/ejecucion-de-ruta"
+              },
+              {
+                "type": "link",
+                "label": "Proceso SAP",
+                "href": "/bpmco/docs/proceso-sap",
+                "docId": "bonlac/proveeduria de leche/proceso-sap"
+              },
+              {
+                "type": "link",
+                "label": "Datos Maestros para el Proceso",
+                "href": "/bpmco/docs/datos-maestros-proceso",
+                "docId": "bonlac/proveeduria de leche/datos-maestros-proceso"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "EPA",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Información General Empresa Panameña de Alimentos",
+            "href": "/bpmco/docs/informacion-general-epa",
+            "docId": "epa/informacion-general-epa"
+          },
+          {
+            "type": "category",
+            "label": "Salario Variable Para Vendedores",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Información General Proceso",
+                "href": "/bpmco/docs/informacion-general-salario-variable-para-vendedores",
+                "docId": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores"
+              },
+              {
+                "type": "link",
+                "label": "Flujos Del Proceso",
+                "href": "/bpmco/docs/flujos-del-proceso",
+                "docId": "epa/salario variable vendedores/flujos-del-proceso"
+              },
+              {
+                "type": "link",
+                "label": "Explicación Más Detallada Sobre El Proceso",
+                "href": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso",
+                "docId": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso"
+              },
+              {
+                "type": "link",
+                "label": "Anexos",
+                "href": "/bpmco/docs/anexos",
+                "docId": "epa/salario variable vendedores/anexos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Levapan",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Información General Levapan",
+            "href": "/bpmco/docs/informacion-general-levapan",
+            "docId": "levapan/informacion-general-levapan"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "bonlac/informacion-general-bonlac": {
+      "id": "bonlac/informacion-general-bonlac",
+      "title": "Información General Bonlac",
+      "description": "Bonlac",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/datos-maestros-proceso": {
+      "id": "bonlac/proveeduria de leche/datos-maestros-proceso",
+      "title": "Datos Maestros para el Proceso",
+      "description": "Descripción",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/ejecucion-de-ruta": {
+      "id": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+      "title": "Ejecución de Ruta",
+      "description": "Descripción del Proceso",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche": {
+      "id": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche",
+      "title": "Información General Proceso",
+      "description": "Proveeduría de Leche",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/informacion-tecnica": {
+      "id": "bonlac/proveeduria de leche/informacion-tecnica",
+      "title": "Información Técnica",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/planeacion-de-rutas": {
+      "id": "bonlac/proveeduria de leche/planeacion-de-rutas",
+      "title": "Planeación de Rutas",
+      "description": "Descripción del Proceso",
+      "sidebar": "tutorialSidebar"
+    },
+    "bonlac/proveeduria de leche/proceso-sap": {
+      "id": "bonlac/proveeduria de leche/proceso-sap",
+      "title": "Proceso SAP",
+      "description": "Descripción del Proceso",
+      "sidebar": "tutorialSidebar"
+    },
+    "bpmco/informacion-general-bpmco": {
+      "id": "bpmco/informacion-general-bpmco",
+      "title": "Información General BPMco",
+      "description": "BPMco",
+      "sidebar": "tutorialSidebar"
+    },
+    "epa/informacion-general-epa": {
+      "id": "epa/informacion-general-epa",
+      "title": "Información General Empresa Panameña de Alimentos",
+      "description": "Empresa Panameña de Alimentos",
+      "sidebar": "tutorialSidebar"
+    },
+    "epa/salario variable vendedores/anexos": {
+      "id": "epa/salario variable vendedores/anexos",
+      "title": "Anexos",
+      "description": "profrmepasvprocesarVentasSAP",
+      "sidebar": "tutorialSidebar"
+    },
+    "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso": {
+      "id": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+      "title": "Explicación Más Detallada Sobre El Proceso",
+      "description": "General",
+      "sidebar": "tutorialSidebar"
+    },
+    "epa/salario variable vendedores/flujos-del-proceso": {
+      "id": "epa/salario variable vendedores/flujos-del-proceso",
+      "title": "Flujos Del Proceso",
+      "description": "General",
+      "sidebar": "tutorialSidebar"
+    },
+    "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores": {
+      "id": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores",
+      "title": "Información General Proceso",
+      "description": "Salario Variable Para Vendedores",
+      "sidebar": "tutorialSidebar"
+    },
+    "icasa/datos maestros/formulario": {
+      "id": "icasa/datos maestros/formulario",
+      "title": "Formulario",
+      "description": "Estos formularios se encuentran desarrollados en _Framework7_ y cuentan con una estructura básica que se divide en tres secciones principales.",
+      "sidebar": "tutorialSidebar"
+    },
+    "icasa/datos maestros/informacion-general-datos-maestros": {
+      "id": "icasa/datos maestros/informacion-general-datos-maestros",
+      "title": "Información General Proceso",
+      "description": "Datos Maestros",
+      "sidebar": "tutorialSidebar"
+    },
+    "icasa/informacion-general-icasa": {
+      "id": "icasa/informacion-general-icasa",
+      "title": "Información General Inversiones Centro Americanas",
+      "description": "Icasa",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduccion": {
+      "id": "introduccion",
+      "title": "Introducción",
+      "description": "Introducción General",
+      "sidebar": "tutorialSidebar"
+    },
+    "levapan/informacion-general-levapan": {
+      "id": "levapan/informacion-general-levapan",
+      "title": "Información General Levapan",
+      "description": "Levapan",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "icasa/datos maestros/informacion-general-datos-maestros",
+  "id": "icasa/datos maestros/informacion-general-datos-maestros",
+  "title": "Información General Proceso",
+  "description": "Datos Maestros",
+  "source": "@site/docs/icasa/datos maestros/informacion-general-datos-maestros.md",
+  "sourceDirName": "icasa/datos maestros",
+  "slug": "/informacion-general-datos-maestros",
+  "permalink": "/bpmco/docs/informacion-general-datos-maestros",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/icasa/datos maestros/informacion-general-datos-maestros.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Información General Proceso",
+    "slug": "/informacion-general-datos-maestros"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Información General Inversiones Centro Americanas",
+    "permalink": "/bpmco/docs/informacion-general-icasa"
+  },
+  "next": {
+    "title": "Formulario",
+    "permalink": "/bpmco/docs/formulario"
+  }
+}

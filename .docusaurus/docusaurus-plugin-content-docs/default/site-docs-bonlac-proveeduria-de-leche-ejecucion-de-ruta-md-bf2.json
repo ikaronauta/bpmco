@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+  "id": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+  "title": "Ejecución de Ruta",
+  "description": "Descripción del Proceso",
+  "source": "@site/docs/bonlac/proveeduria de leche/ejecucion-de-ruta.md",
+  "sourceDirName": "bonlac/proveeduria de leche",
+  "slug": "/ejecucion-de-ruta",
+  "permalink": "/bpmco/docs/ejecucion-de-ruta",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/ejecucion-de-ruta.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Ejecución de Ruta",
+    "slug": "/ejecucion-de-ruta"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planeación de Rutas",
+    "permalink": "/bpmco/docs/plenacion-de-rutas"
+  },
+  "next": {
+    "title": "Proceso SAP",
+    "permalink": "/bpmco/docs/proceso-sap"
+  }
+}

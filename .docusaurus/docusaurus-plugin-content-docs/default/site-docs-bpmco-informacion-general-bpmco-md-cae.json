@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bpmco/informacion-general-bpmco",
+  "id": "bpmco/informacion-general-bpmco",
+  "title": "Información General BPMco",
+  "description": "BPMco",
+  "source": "@site/docs/bpmco/informacion-general-bpmco.md",
+  "sourceDirName": "bpmco",
+  "slug": "/informacion-general-bpmco",
+  "permalink": "/bpmco/docs/informacion-general-bpmco",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bpmco/informacion-general-bpmco.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Información General BPMco",
+    "slug": "/informacion-general-bpmco"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/bpmco/docs/"
+  },
+  "next": {
+    "title": "Información General Inversiones Centro Americanas",
+    "permalink": "/bpmco/docs/informacion-general-icasa"
+  }
+}

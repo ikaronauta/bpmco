@@ -1,0 +1,125 @@
+{
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 2
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/bpmco/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/bpmco/docs",
+          "mainDocId": "introduccion",
+          "docs": [
+            {
+              "id": "bonlac/informacion-general-bonlac",
+              "path": "/bpmco/docs/informacion-general-bonlac-prueba",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/datos-maestros-proceso",
+              "path": "/bpmco/docs/datos-maestros-proceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/ejecucion-de-ruta",
+              "path": "/bpmco/docs/ejecucion-de-ruta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/informacion-general-proveeduria-de-leche",
+              "path": "/bpmco/docs/informacion-general-proceso-proveeduria-de-leche",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/informacion-tecnica",
+              "path": "/bpmco/docs/informacion-tecnica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/planeacion-de-rutas",
+              "path": "/bpmco/docs/plenacion-de-rutas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonlac/proveeduria de leche/proceso-sap",
+              "path": "/bpmco/docs/proceso-sap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bpmco/informacion-general-bpmco",
+              "path": "/bpmco/docs/informacion-general-bpmco",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "epa/informacion-general-epa",
+              "path": "/bpmco/docs/informacion-general-epa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "epa/salario variable vendedores/anexos",
+              "path": "/bpmco/docs/anexos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "epa/salario variable vendedores/explicacion-mas-detallada-sobre-el-proceso",
+              "path": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "epa/salario variable vendedores/flujos-del-proceso",
+              "path": "/bpmco/docs/flujos-del-proceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "epa/salario variable vendedores/informacion-general-salario-variable-para-vendedores",
+              "path": "/bpmco/docs/informacion-general-salario-variable-para-vendedores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "icasa/datos maestros/formulario",
+              "path": "/bpmco/docs/formulario",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "icasa/datos maestros/informacion-general-datos-maestros",
+              "path": "/bpmco/docs/informacion-general-datos-maestros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "icasa/informacion-general-icasa",
+              "path": "/bpmco/docs/informacion-general-icasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduccion",
+              "path": "/bpmco/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "levapan/informacion-general-levapan",
+              "path": "/bpmco/docs/informacion-general-levapan",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/bpmco/docs/",
+                "label": "introduccion"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

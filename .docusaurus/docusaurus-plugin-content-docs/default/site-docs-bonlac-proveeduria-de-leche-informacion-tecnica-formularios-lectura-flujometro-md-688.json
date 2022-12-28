@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/informacion_tecnica/formularios/lectura-flujometro",
+  "id": "bonlac/proveeduria de leche/informacion_tecnica/formularios/lectura-flujometro",
+  "title": "Lectura del Flujómetro",
+  "description": "Descripción",
+  "source": "@site/docs/bonlac/proveeduria de leche/informacion_tecnica/formularios/lectura-flujometro.md",
+  "sourceDirName": "bonlac/proveeduria de leche/informacion_tecnica/formularios",
+  "slug": "/bonlac/proveeduria-leche/informacion-tecnica/formularios/lectura-del-flujometro",
+  "permalink": "/bpmco/docs/bonlac/proveeduria-leche/informacion-tecnica/formularios/lectura-del-flujometro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/informacion_tecnica/formularios/lectura-flujometro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Lectura del Flujómetro",
+    "slug": "/bonlac/proveeduria-leche/informacion-tecnica/formularios/lectura-del-flujometro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aprobación de Calidad",
+    "permalink": "/bpmco/docs/bonlac/proveeduria-leche/informacion-tecnica/formularios/aprobacion-calidad"
+  },
+  "next": {
+    "title": "Proceso SAP",
+    "permalink": "/bpmco/docs/proceso-sap"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "epa/informacion-general-epa",
+  "id": "epa/informacion-general-epa",
+  "title": "Información General Empresa Panameña de Alimentos",
+  "description": "Empresa Panameña de Alimentos",
+  "source": "@site/docs/epa/informacion-general-epa.md",
+  "sourceDirName": "epa",
+  "slug": "/informacion-general-epa",
+  "permalink": "/bpmco/docs/informacion-general-epa",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/informacion-general-epa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Información General Empresa Panameña de Alimentos",
+    "slug": "/informacion-general-epa"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datos Maestros para el Proceso",
+    "permalink": "/bpmco/docs/datos-maestros-proceso"
+  },
+  "next": {
+    "title": "Información General Proceso",
+    "permalink": "/bpmco/docs/informacion-general-salario-variable-para-vendedores"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "levapan/informacion-general-levapan",
+  "id": "levapan/informacion-general-levapan",
+  "title": "Información General Levapan",
+  "description": "Levapan",
+  "source": "@site/docs/levapan/informacion-general-levapan.md",
+  "sourceDirName": "levapan",
+  "slug": "/informacion-general-levapan",
+  "permalink": "/bpmco/docs/informacion-general-levapan",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/levapan/informacion-general-levapan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Información General Levapan",
+    "slug": "/informacion-general-levapan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anexos",
+    "permalink": "/bpmco/docs/anexos"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/planeacion-de-rutas",
+  "id": "bonlac/proveeduria de leche/planeacion-de-rutas",
+  "title": "Planeación de Rutas",
+  "description": "Descripción del Proceso",
+  "source": "@site/docs/bonlac/proveeduria de leche/planeacion-de-rutas.md",
+  "sourceDirName": "bonlac/proveeduria de leche",
+  "slug": "/plenacion-de-rutas",
+  "permalink": "/bpmco/docs/plenacion-de-rutas",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/planeacion-de-rutas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Planeación de Rutas",
+    "slug": "/plenacion-de-rutas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Información Técnica",
+    "permalink": "/bpmco/docs/informacion-tecnica"
+  },
+  "next": {
+    "title": "Ejecución de Ruta",
+    "permalink": "/bpmco/docs/ejecucion-de-ruta"
+  }
+}

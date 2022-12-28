@@ -1,0 +1,28 @@
+{
+  "unversionedId": "epa/salario variable vendedores/anexos",
+  "id": "epa/salario variable vendedores/anexos",
+  "title": "Anexos",
+  "description": "profrmepasvprocesarVentasSAP",
+  "source": "@site/docs/epa/salario variable vendedores/anexos.md",
+  "sourceDirName": "epa/salario variable vendedores",
+  "slug": "/anexos",
+  "permalink": "/bpmco/docs/anexos",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/epa/salario variable vendedores/anexos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Anexos",
+    "slug": "/anexos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Explicación Más Detallada Sobre El Proceso",
+    "permalink": "/bpmco/docs/explicacion-mas-detallada-sobre-el-proceso"
+  },
+  "next": {
+    "title": "Información General Levapan",
+    "permalink": "/bpmco/docs/informacion-general-levapan"
+  }
+}

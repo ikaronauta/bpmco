@@ -1,0 +1,23 @@
+{
+  "unversionedId": "bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios",
+  "id": "bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios",
+  "title": "formularios",
+  "description": "",
+  "source": "@site/docs/bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios.md",
+  "sourceDirName": "bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche",
+  "slug": "/bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios",
+  "permalink": "/bpmco/docs/bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bonlac/proveeduria de leche/informacion_tecnica_proveeduria_Leche/formularios.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Código Back-End",
+    "permalink": "/bpmco/docs/bonlac/proveeduria-leche/informacion-tecnica/codigo-back-end"
+  },
+  "next": {
+    "title": "Información General Empresa Panameña de Alimentos",
+    "permalink": "/bpmco/docs/informacion-general-epa"
+  }
+}
