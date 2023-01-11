@@ -19,7 +19,7 @@ Este proceso comprende la etapa de planeamiento y se divide en tres partes:
 
 ***
 
-### Plan Mensual
+### Plan Mensual :date:
 
 :::info
 Esta tarea se inicia de forma manual por el usuario.
@@ -40,7 +40,7 @@ Esta es una causal de soporte frecuente, ya que el funcionario encargado deja pa
 *Formulario de Planeación Mensual*
 ![Formulario Plan Mensual](./plan-mensual.png "Formulario Plan Mensual")
 
-#### Información Técnica Planeación Mensual
+#### Información Técnica Planeación Mensual :floppy_disk:
 
 Este proceso es el punto de partida de toda la ejecución del acopio. Se debe realizar el mes anterior al que se va a planear; por ejemplo, en Noviembre, y el sistema establecerá por defecto el mes de Diciembre. El código del proceso es 81.
 
@@ -60,7 +60,7 @@ _Función Process Request_
 
 ***
 
-### Plan Semanal
+### Plan Semanal :date:
 
 :::info
 Esta tarea se inicia de forma automática por el sistema y se lanza luego de registrar toda la información en la tarea del ***[Plan Mensual](#plan-mensual)***.  
@@ -94,7 +94,7 @@ _Planeación de Recursos_
 
 ![Planeación de Recursos](/assets/proveeduria/planeacion-semanal2-img.png)
 
-#### Información Técnica Planeación Semanal
+#### Información Técnica Planeación Semanal :floppy_disk:
 
 Este proceso tiene el consolidado de la leche planeada para la semana. Tiene la posibilidad de realizar la misma gestión de litros que la planeación mensual. Los datos adicionales que se deben ingresar son los recursos, los conductores que realizarán los recorridos y entregarán la leche y las cisternas que se van a usar. 82 es el código del proceso. 
 
@@ -116,7 +116,7 @@ Usa formulario de tablas y componentes del **DHTMLX**
 
 ***
 
-### Plan Diario
+### Plan Diario :date:
 
 En este punto se recibe toda la información de las tereas anteriores y se divide en siete tereas, una por cada día de la semana.
 
@@ -151,7 +151,7 @@ _Planeación Diaria_
 
 ![Planeación Diaria](/assets/proveeduria/planeacion-diaria-img.png)
 
-#### Información Técnica Planeación Diaria
+#### Información Técnica Planeación Diaria :floppy_disk:
 
 Esta actividad tiene el consolidado de leche a recoger, junto con las rutas y los recursos asignados (conductor, cisterna, etc.) segmentados por día. 83 es el código del proceso.
 
@@ -175,7 +175,7 @@ Se utiliza el formulario de tablas y componentes del **DHTMLX**
   <small>
     <i>
       Ultima actualización:
-      <b> 26 de Diciembre de 2022.</b>
+      <b> 11 de Enero de 2023</b>
     </i>
   </small>
 

@@ -22,7 +22,7 @@ _Datos Maestros Proveeduría de Leche_
 
 Toda esta lógica está en el archivo ajax_p80.cs
 
-### Gestionar Fincas
+### Gestionar Fincas :tent:
 
 Aquí se gestionan los temas relacionados con la finca. Es una ficha técnica completa, con datos indicados por **[galeras](./informacion-general-proveeduria-de-leche.md#fincas)**. Se debe tener en cuenta que una **[finca](./informacion-general-proveeduria-de-leche.md#fincas)** solo puede ser creada si ya está registrada en SAP, pues el código SAP es necesario. 
 
@@ -82,15 +82,15 @@ _Método enviarCorreoEvaluacionFinca_
 
 Gestionar Cabezal: Aquí se gestionan los carros que transportan las cisternas. Se utiliza para control de las licencias y otros trámites. Esta información sirve para llevar la estadística de los vehículos usados a la hora de realizar el acopio, cuando se va a iniciar ruta desde la aplicación y se indica el cabezal. 
 
-### Gestionar Cisterna
+### Gestionar Cisterna :articulated_lorry:
 
 Gestionar Cisterna: Aquí se gestionan las cisternas, se agregan fotos y se usa para control de las licencias y otros trámites. Esta información es clave en la actividad de planeación semanal, ya que allí se definen las cisternas que se van a usar para cada ruta, cuando se va a iniciar ruta desde la aplicación, se pide confirmación de cisterna y se pueden modificar.
 
-### Gestionar Colaborador
+### Gestionar Colaborador :construction_worker:
 
 Aquí se gestionan los usuarios que interactúan con la aplicación y el proceso, los conductores tanto internos como externos y los administrativos.  Se pueden agregan fotos y otros datos relacionados con permisos de operación y licencias. Esta información es clave en la actividad de planeación semanal, ya que allí se definen los conductores que se van a usar para cada ruta.  Cuando se crea un colaborador, inmediatamente queda registrado como usuario de la aplicación. 
 
-### Gestionar Usuarios APP
+### Gestionar Usuarios APP :no_good:
 
 Aquí se gestionan los usuarios que van a tener acceso a la aplicación, se pueden habilitar o inhabilitar fácilmente, y se definen los roles que van a tener, ya que la aplicación presenta funcionalidades diferentes basadas en los roles. 
 
@@ -98,11 +98,11 @@ _Gestión Usuarios App_
 
 ![Gestión Usuarios App](/assets/proveeduria/gestion-usuarios-app.png "Gestión Usuarios App")
 
-### Venta de Insumos
+### Venta de Insumos :baby_bottle:
 
 Este módulo finalmente nunca fue utilizado por el cliente. No se brindó por su parte la fuerza necesaria para realizarlo. La idea en su momento era manejar algunos productos que ellos venden a los productores y se ofrecería crédito por estos.
 
-### Gestionar Cuestionario Finca
+### Gestionar Cuestionario Finca :clipboard:
 
 Este módulo tiene como finalidad administrar el cuestionario de inspecciones que se realiza desde la aplicación. En la sección de fincas se trató este tema.  Este formulario alimenta las tablas de configuración de las evaluaciones (pl_cuestionario, Pl_Ev_opc_respuestas) que posteriormente se sincronizarán desde la aplicación, para que se puedan llenar esas inspecciones.
 
@@ -146,19 +146,11 @@ _Función enviarCorreoInspeccionSemanalHf_
 
 ![Función enviarCorreoInspeccionSemanalHf](/assets/proveeduria/funcion-enviar-correo-inspeccion-semanal.png "Función enviarCorreoInspeccionSemanalHf")
 
-### Pago a productores 
-
-El pago a los productores se realiza de manera quincenal, del día 11 al 25 del mes actual y del día 26 al 10 del siguiente mes. Por ejemplo, el pago del mes de Noviembre, la primera quincena sería del 10/11/2022 al 25/11/2022 y la segunda sería del 26/11/2022 hasta el 10/12/2022.
-
-:::caution
-El pago depende directamente de las actividades de verificación de facturas, por lo que es muy importante que todos los procesos y documentos de pago estén generados.
-:::
-
 <div class="ultima-actualizacion">
   <small>
     <i>
       Ultima actualización:
-      <b> 27 de Diciembre de 2022</b>
+      <b> 11 de Enero de 2023</b>
     </i>
   </small>
 
