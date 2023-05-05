@@ -278,7 +278,7 @@ Usa formulario de tablas y componentes del DHTMLX 
   <small>
     <i>
       Actualizado por:
-      <b> Santiago Correa R</b>
+      <b> Santiago Correa R / Cristian Cantillo</b>
     </i>
   </small>
 </div>

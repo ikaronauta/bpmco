@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="base-datos" label="Base de Datos" default>
     <h2>Base de Datos</h2>
-    <p>Las tablas y vistas relacionadas con este proyecto empiezan con el nombre de PL_ (Proveeduría de Leche). Por ejemplo, la tabla de <a href="./informacion-general-proveeduria-de-leche.md">fincas</a> se identifica con el título <strong>pl_fincas</strong></p>
+    <p>Las tablas y vistas relacionadas con este proyecto empiezan con el nombre de PL_ (Proveeduría de Leche). Por ejemplo, la tabla de fincas se identifica con el título <strong>pl_fincas</strong></p>
   </TabItem>
 
   <TabItem value="archivo-config-ini" label="Archivo de Configuración">
@@ -50,7 +50,7 @@ Recientemente se están migrando los servicios al nuevo SAP de Icasa; por tanto,
   <small>
     <i>
       Actualizado por:
-      <b> Santiago Correa R</b>
+      <b> Santiago Correa R / Cristian Cantillo</b>
     </i>
   </small>
 </div>

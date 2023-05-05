@@ -30,7 +30,7 @@ _Video principlaes módulos App para Proveeduría de Leche_
   <small>
     <i>
       Actualizado por:
-      <b> Santiago Correa R</b>
+      <b> Santiago Correa R / Cristian Cantillo</b>
     </i>
   </small>
 </div>

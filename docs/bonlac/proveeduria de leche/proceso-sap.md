@@ -108,7 +108,7 @@ Con esto, el proceso de acopio de leche queda cubierto desde la planificación d
   <small>
     <i>
       Actualizado por:
-      <b> Santiago Correa R</b>
+      <b> Santiago Correa R / Cristian Cantillo</b>
     </i>
   </small>
 </div>

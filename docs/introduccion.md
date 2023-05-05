@@ -21,14 +21,14 @@ El presente sistema es una guía para dar a conocer el funcionamiento interno de
   <small>
     <i>
       Ultima actualización:
-      <b> 10 de mayo de 2022.</b>
+      <b> 27 marzo 2023</b>
     </i>
   </small>
 
   <small>
     <i>
       Actualizado por:
-      <b> Julian A. Ortiz.</b>
+      <b> Andres M Cifuentes.</b>
     </i>
   </small>
 </div>

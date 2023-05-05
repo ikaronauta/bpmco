@@ -119,18 +119,32 @@ _Diagrama Plan de Pagos Lecheros_
 Existe un reporte donde se pueden consultar esos planes de pago. Dar click [**aquí**](http://bonlac.bpmco.co/procesos/reportaspx?lkid=342 "Autenticación Proveeduría de Leche") para ver dicho reporte
 :::
 
+:::info
+El siguiente video es sobre información técnica para el Proyecto Proveeduría de Leche.
+:::
+
+<iframe
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/t12OLFwRlgw"
+  title="Plan de Pagos Lecheros" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+>
+</iframe>
+
 <div class="ultima-actualizacion">
   <small>
     <i>
       Ultima actualización:
-      <b> 11 de Enero de 2023</b>
+      <b> 16 de Enero de 2023</b>
     </i>
   </small>
 
   <small>
     <i>
       Actualizado por:
-      <b> Santiago Correa R</b>
+      <b> Santiago Correa R / Cristian Cantillo</b>
     </i>
   </small>
 </div>

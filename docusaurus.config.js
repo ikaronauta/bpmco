@@ -9,7 +9,7 @@ const config = {
   title: "BPMco",
   tagline: "Documentación",
   url: "http://ikaronauta.github.io",
-  baseUrl: "/bpmco/",
+  baseUrl: "/conocimiento/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
